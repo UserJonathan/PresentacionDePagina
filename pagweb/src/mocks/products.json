@@ -1,0 +1,286 @@
+{
+   "products": [
+      {
+         "id": 1,
+         "title": "Adidas Fashion",
+         "description": "Zapatos deportivos",
+         "price": 350,
+         "stock": 25,
+         "category": "Deportivos",
+         "images": "imagen/adidas fashion.jpeg"
+      },
+      {
+         "id": 2,
+         "title": "Air Jordan 1 MId ",
+         "description": "Botas Jordan ",
+         "price": 537,
+         "stock": 25,
+         "category": "Deportivos",
+         "images": "imagen/Air Jordan 1 Mid.jpeg"
+      },
+      {
+         "id": 3,
+         "title": "Adidias Blancos ",
+         "description": "Zapatos deportivos, buenos para correr ",
+         "price": 181,
+         "stock": 25,
+         "category": "Deportivos",
+         "images": "imagen/blanco adidas.jpeg "
+      },
+      {
+         "id": 4,
+         "title": "Boss Gold ",
+         "description": "Zapatos deportivos",
+         "price": 1000,
+         "stock": 25,
+         "category": "Deportivos",
+         "images": "imagen/boss gold.jpeg "
+      },
+      {
+         "id": 5,
+         "title": "Boss Negro",
+         "description": "Zapatos deportivos",
+         "price": 800,
+         "stock": 25,
+         "category": "Deportivos",
+         "images": "imagen/boss negro.jpeg"
+      },
+      {
+         "id": 6,
+         "title": "Boss ",
+         "description": "Zapatos deportivos",
+         "price": 800,
+         "stock": 25,
+         "category": "Deportivos",
+         "images": "imagen/boss.jpeg"
+      },
+      {
+         "id": 7,
+         "title": "Converse blanca",
+         "description": "Zapatos deportivos",
+         "price": 110,
+         "stock": 25,
+         "category": "Deportivos",
+         "images": "imagen/converse blanca.jpeg"
+      },
+      {
+         "id": 8,
+         "title": "Converse blanca Alta",
+         "description": "Zapatos deportivos",
+         "price": 120,
+         "stock": 25,
+         "category": "Deportivos",
+         "images": "imagen/converse blanco alta.jpeg"
+      },
+      {
+         "id": 9,
+         "title": " Converse negro Alta",
+         "description": "Zapatos deportivos",
+         "price": 130,
+         "stock": 25,
+         "category": "Deportivos",
+         "images": "imagen/converse negro alta.jpeg"
+      },
+      {
+         "id": 10,
+         "title": " Converse negro",
+         "description": "Zapatos deportivos",
+         "price": 110,
+         "stock": 25,
+         "category": "Deportivos",
+         "images": "imagen/converse negro.jpeg"
+      },
+      {
+         "id": 11,
+         "title": "Dulce gabanna ",
+         "description": "Zapatos deportivos",
+         "price": 420,
+         "stock": 25,
+         "category": "Deportivos",
+         "images": "imagen/Dolce Gabanaa.jpeg"
+      },
+      {
+         "id": 12,
+         "title": "Guees ",
+         "description": "Zapatos deportivos",
+         "price": 300,
+         "stock": 25,
+         "category": "Deportivos",
+         "images": "imagen/guees.jpeg"
+      },
+      {
+         "id": 13,
+         "title": "High Retro ",
+         "description": "Zapatos deportivos",
+         "price": 130,
+         "stock": 25,
+         "category": "Deportivos",
+         "images": "imagen/high retro.jpeg"
+      },
+      {
+         "id": 14,
+         "title": " Jordan 6 Rings Black",
+         "description": "Zapatos deportivos",
+         "price": 150,
+         "stock": 25,
+         "category": "Deportivos",
+         "images": "imagen/jordan 6 Rings Black.jpeg"
+      },
+      {
+         "id": 15,
+         "title": " Jordan 6 Rings",
+         "description": "Zapatos deportivos",
+         "price": 170,
+         "stock": 25,
+         "category": "Deportivos",
+         "images": "imagen/jordan 6 Rings.jpeg"
+      },
+      {
+         "id": 16,
+         "title": "Jordan Retro 1",
+         "description": "Zapatos deportivos",
+         "price": 150,
+         "stock": 25,
+         "category": "Deportivos",
+         "images": "imagen/Jordan retro 1.jpeg"
+      },
+      {
+         "id": 17,
+         "title": "Jordan Retro 3",
+         "description": "Zapatos deportivos",
+         "price": 200,
+         "stock": 25,
+         "category": "Deportivos",
+         "images": "imagen/jordan retro 3.jpeg"
+      },
+      {
+         "id": 18,
+         "title": " Adidas runner negros",
+         "description": "Zapatos deportivos",
+         "price": 320,
+         "stock": 25,
+         "category": "Deportivos",
+         "images": "imagen/negro adidas runner.jpeg"
+      },
+      {
+         "id": 19,
+         "title": "New Balance ",
+         "description": "Zapatos deportivos",
+         "price": 160,
+         "stock": 25,
+         "category": "Deportivos",
+         "images": "imagen/New Balance.jpeg"
+      },
+      {
+         "id": 20,
+         "title": "NIke Air Force One Black ",
+         "description": "Zapatos deportivos",
+         "price": 120,
+         "stock": 25,
+         "category": "Deportivos",
+         "images": "imagen/nike air force one Black.jpeg"
+      },
+      {
+         "id": 21,
+         "title": "NIke Air Force 1'07",
+         "description": "Zapatos deportivos",
+         "price": 470,
+         "stock": 25,
+         "category": "Deportivos",
+         "images": "imagen/Nike Air Force 1 '07.jpeg"
+      },
+      {
+         "id": 22,
+         "title": "NIke Air Force One Classic",
+         "description": "Zapatos deportivos",
+         "price": 120,
+         "stock": 25,
+         "category": "Deportivos",
+         "images": "imagen/nike air force one classic.jpeg"
+      },
+      {
+         "id": 23,
+         "title": "NIke Air Force One White",
+         "description": "Zapatos deportivos",
+         "price": 120,
+         "stock": 25,
+         "category": "Deportivos",
+         "images": "imagen/nike air force one White.jpeg"
+      },
+      {
+         "id": 24,
+         "title": " Nike Air Max 97 SE",
+         "description": "Zapatos deportivos",
+         "price": 770,
+         "stock": 25,
+         "category": "Deportivos",
+         "images": "imagen/Nike Air Max 97 SE.jpeg"
+      },
+      {
+         "id": 25,
+         "title": "Nike Force 1 ",
+         "description": "Zapatos deportivos",
+         "price": 120,
+         "stock": 25,
+         "category": "Deportivos",
+         "images": "imagen/Nike force 1.jpeg"
+      },
+      {
+         "id": 26,
+         "title": "Nike Pegasus 40 ",
+         "description": "Zapatos deportivos",
+         "price": 599,
+         "stock": 25,
+         "category": "Deportivos",
+         "images": "imagen/Nike Pegasus 40.jpeg"
+      },
+      {
+         "id": 27,
+         "title": "Nike Pegasus Trail 4 GORE-tex ",
+         "description": "Zapatos deportivos",
+         "price": 699,
+         "stock": 25,
+         "category": "Deportivos",
+         "images": "imagen/Nike Pegasus Trail 4 GORE-TEX.jpeg"
+      },
+      {
+         "id": 28,
+         "title": "Tenis Forum Low",
+         "description": "Zapatos deportivos",
+         "price": 550,
+         "stock": 25,
+         "category": "Deportivos",
+         "images": "imagen/Tenis Forum low.jpeg"
+      },
+      {
+         "id": 29,
+         "title": " Versace",
+         "description": "Zapatos deportivos",
+         "price": 360,
+         "stock": 25,
+         "category": "Deportivos",
+         "images": "imagen/Versace.jpeg"
+      },
+      {
+         "id": 30,
+         "title": " Sperry Marrones Claros",
+         "description": "Zapatos Casuales",
+         "price": 130,
+         "stock": 25,
+         "category": "Clasicos",
+         "images": "imagen/sperry  marron claro.jpeg"
+      },
+      {
+         "id": 31,
+         "title": " Sperry Marrones Oscuro",
+         "description": "Zapatos Casuales",
+         "price": 130,
+         "stock": 25,
+         "category": "Clasicos",
+         "images": "imagen/sperry marron oscuro.jpeg"
+      }
+   ],
+   "total": 31,
+   "skin": 0,
+   "limit": 31
+}
