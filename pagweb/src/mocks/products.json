@@ -7,7 +7,7 @@
          "price": 350,
          "stock": 25,
          "category": "Deportivos",
-         "images": "imagen/adidas fashion.jpeg"
+         "images": "https://github.com/UserJonathan/PresentacionDePagina/blob/main/pagweb/src/mocks/imagen/adidas%20fashion.jpeg?raw=true"
       },
       {
          "id": 2,
@@ -16,7 +16,7 @@
          "price": 537,
          "stock": 25,
          "category": "Deportivos",
-         "images": "imagen/Air Jordan 1 Mid.jpeg"
+         "images": "https://github.com/UserJonathan/PresentacionDePagina/blob/main/pagweb/src/mocks/imagen/Air%20Jordan%201%20Mid.jpeg?raw=true"
       },
       {
          "id": 3,
@@ -25,7 +25,7 @@
          "price": 181,
          "stock": 25,
          "category": "Deportivos",
-         "images": "imagen/blanco adidas.jpeg "
+         "images": "https://github.com/UserJonathan/PresentacionDePagina/blob/main/pagweb/src/mocks/imagen/blanco%20adidas.jpeg?raw=true "
       },
       {
          "id": 4,
@@ -34,7 +34,7 @@
          "price": 1000,
          "stock": 25,
          "category": "Deportivos",
-         "images": "imagen/boss gold.jpeg "
+         "images": "https://github.com/UserJonathan/PresentacionDePagina/blob/main/pagweb/src/mocks/imagen/boss%20gold.jpeg?raw=true"
       },
       {
          "id": 5,
@@ -43,7 +43,7 @@
          "price": 800,
          "stock": 25,
          "category": "Deportivos",
-         "images": "imagen/boss negro.jpeg"
+         "images": "https://github.com/UserJonathan/PresentacionDePagina/blob/main/pagweb/src/mocks/imagen/boss%20negro.jpeg?raw=true"
       },
       {
          "id": 6,
@@ -52,7 +52,7 @@
          "price": 800,
          "stock": 25,
          "category": "Deportivos",
-         "images": "imagen/boss.jpeg"
+         "images": "https://github.com/UserJonathan/PresentacionDePagina/blob/main/pagweb/src/mocks/imagen/boss.jpeg?raw=true"
       },
       {
          "id": 7,
@@ -61,7 +61,7 @@
          "price": 110,
          "stock": 25,
          "category": "Deportivos",
-         "images": "imagen/converse blanca.jpeg"
+         "images": "https://github.com/UserJonathan/PresentacionDePagina/blob/main/pagweb/src/mocks/imagen/converse%20blanca.jpeg?raw=true"
       },
       {
          "id": 8,
@@ -70,7 +70,7 @@
          "price": 120,
          "stock": 25,
          "category": "Deportivos",
-         "images": "imagen/converse blanco alta.jpeg"
+         "images": "https://github.com/UserJonathan/PresentacionDePagina/blob/main/pagweb/src/mocks/imagen/converse%20blanco%20alta.jpeg?raw=true"
       },
       {
          "id": 9,
@@ -79,7 +79,7 @@
          "price": 130,
          "stock": 25,
          "category": "Deportivos",
-         "images": "imagen/converse negro alta.jpeg"
+         "images": "https://github.com/UserJonathan/PresentacionDePagina/blob/main/pagweb/src/mocks/imagen/converse%20negro%20alta.jpeg?raw=true"
       },
       {
          "id": 10,
@@ -88,7 +88,7 @@
          "price": 110,
          "stock": 25,
          "category": "Deportivos",
-         "images": "imagen/converse negro.jpeg"
+         "images": "https://github.com/UserJonathan/PresentacionDePagina/blob/main/pagweb/src/mocks/imagen/converse%20negro.jpeg?raw=true"
       },
       {
          "id": 11,
@@ -97,7 +97,7 @@
          "price": 420,
          "stock": 25,
          "category": "Deportivos",
-         "images": "imagen/Dolce Gabanaa.jpeg"
+         "images": "https://github.com/UserJonathan/PresentacionDePagina/blob/main/pagweb/src/mocks/imagen/Dolce%20Gabanaa.jpeg?raw=true"
       },
       {
          "id": 12,
@@ -106,7 +106,7 @@
          "price": 300,
          "stock": 25,
          "category": "Deportivos",
-         "images": "imagen/guees.jpeg"
+         "images": "https://github.com/UserJonathan/PresentacionDePagina/blob/main/pagweb/src/mocks/imagen/guees.jpeg?raw=true"
       },
       {
          "id": 13,
@@ -115,7 +115,7 @@
          "price": 130,
          "stock": 25,
          "category": "Deportivos",
-         "images": "imagen/high retro.jpeg"
+         "images": "https://github.com/UserJonathan/PresentacionDePagina/blob/main/pagweb/src/mocks/imagen/high%20retro.jpeg?raw=true"
       },
       {
          "id": 14,
@@ -124,7 +124,7 @@
          "price": 150,
          "stock": 25,
          "category": "Deportivos",
-         "images": "imagen/jordan 6 Rings Black.jpeg"
+         "images": "https://github.com/UserJonathan/PresentacionDePagina/blob/main/pagweb/src/mocks/imagen/jordan%206%20Rings%20Black.jpeg?raw=true"
       },
       {
          "id": 15,
@@ -133,7 +133,7 @@
          "price": 170,
          "stock": 25,
          "category": "Deportivos",
-         "images": "imagen/jordan 6 Rings.jpeg"
+         "images": "https://github.com/UserJonathan/PresentacionDePagina/blob/main/pagweb/src/mocks/imagen/jordan%206%20Rings.jpeg?raw=true"
       },
       {
          "id": 16,
@@ -142,7 +142,7 @@
          "price": 150,
          "stock": 25,
          "category": "Deportivos",
-         "images": "imagen/Jordan retro 1.jpeg"
+         "images": "https://github.com/UserJonathan/PresentacionDePagina/blob/main/pagweb/src/mocks/imagen/Jordan%20retro%201.jpeg?raw=true"
       },
       {
          "id": 17,
@@ -151,7 +151,7 @@
          "price": 200,
          "stock": 25,
          "category": "Deportivos",
-         "images": "imagen/jordan retro 3.jpeg"
+         "images": "https://github.com/UserJonathan/PresentacionDePagina/blob/main/pagweb/src/mocks/imagen/jordan%20retro%203.jpeg?raw=true"
       },
       {
          "id": 18,
@@ -160,7 +160,7 @@
          "price": 320,
          "stock": 25,
          "category": "Deportivos",
-         "images": "imagen/negro adidas runner.jpeg"
+         "images": "https://github.com/UserJonathan/PresentacionDePagina/blob/main/pagweb/src/mocks/imagen/negro%20adidas%20runner.jpeg?raw=true"
       },
       {
          "id": 19,
@@ -169,7 +169,7 @@
          "price": 160,
          "stock": 25,
          "category": "Deportivos",
-         "images": "imagen/New Balance.jpeg"
+         "images": "https://github.com/UserJonathan/PresentacionDePagina/blob/main/pagweb/src/mocks/imagen/New%20Balance.jpeg?raw=true"
       },
       {
          "id": 20,
@@ -178,7 +178,7 @@
          "price": 120,
          "stock": 25,
          "category": "Deportivos",
-         "images": "imagen/nike air force one Black.jpeg"
+         "images": "https://github.com/UserJonathan/PresentacionDePagina/blob/main/pagweb/src/mocks/imagen/nike%20air%20force%20one%20Black.jpeg?raw=true"
       },
       {
          "id": 21,
@@ -187,7 +187,7 @@
          "price": 470,
          "stock": 25,
          "category": "Deportivos",
-         "images": "imagen/Nike Air Force 1 '07.jpeg"
+         "images": "https://github.com/UserJonathan/PresentacionDePagina/blob/main/pagweb/src/mocks/imagen/Nike%20Air%20Force%201%20'07.jpeg?raw=true"
       },
       {
          "id": 22,
@@ -196,7 +196,7 @@
          "price": 120,
          "stock": 25,
          "category": "Deportivos",
-         "images": "imagen/nike air force one classic.jpeg"
+         "images": "https://github.com/UserJonathan/PresentacionDePagina/blob/main/pagweb/src/mocks/imagen/nike%20air%20force%20one%20classic.jpeg?raw=true"
       },
       {
          "id": 23,
@@ -205,7 +205,7 @@
          "price": 120,
          "stock": 25,
          "category": "Deportivos",
-         "images": "imagen/nike air force one White.jpeg"
+         "images": "https://github.com/UserJonathan/PresentacionDePagina/blob/main/pagweb/src/mocks/imagen/nike%20air%20force%20one%20White.jpeg?raw=true"
       },
       {
          "id": 24,
@@ -214,7 +214,7 @@
          "price": 770,
          "stock": 25,
          "category": "Deportivos",
-         "images": "imagen/Nike Air Max 97 SE.jpeg"
+         "images": "https://github.com/UserJonathan/PresentacionDePagina/blob/main/pagweb/src/mocks/imagen/Nike%20Air%20Max%2097%20SE.jpeg?raw=true"
       },
       {
          "id": 25,
@@ -223,7 +223,7 @@
          "price": 120,
          "stock": 25,
          "category": "Deportivos",
-         "images": "imagen/Nike force 1.jpeg"
+         "images": "https://github.com/UserJonathan/PresentacionDePagina/blob/main/pagweb/src/mocks/imagen/Nike%20force%201.jpeg?raw=true"
       },
       {
          "id": 26,
@@ -232,7 +232,7 @@
          "price": 599,
          "stock": 25,
          "category": "Deportivos",
-         "images": "imagen/Nike Pegasus 40.jpeg"
+         "images": "https://github.com/UserJonathan/PresentacionDePagina/blob/main/pagweb/src/mocks/imagen/Nike%20Pegasus%2040.jpeg?raw=true"
       },
       {
          "id": 27,
@@ -241,7 +241,7 @@
          "price": 699,
          "stock": 25,
          "category": "Deportivos",
-         "images": "imagen/Nike Pegasus Trail 4 GORE-TEX.jpeg"
+         "images": "https://github.com/UserJonathan/PresentacionDePagina/blob/main/pagweb/src/mocks/imagen/Nike%20Pegasus%20Trail%204%20GORE-TEX.jpeg?raw=true"
       },
       {
          "id": 28,
@@ -250,7 +250,7 @@
          "price": 550,
          "stock": 25,
          "category": "Deportivos",
-         "images": "imagen/Tenis Forum low.jpeg"
+         "images": "https://github.com/UserJonathan/PresentacionDePagina/blob/main/pagweb/src/mocks/imagen/Tenis%20Forum%20low.jpeg?raw=true"
       },
       {
          "id": 29,
@@ -259,7 +259,7 @@
          "price": 360,
          "stock": 25,
          "category": "Deportivos",
-         "images": "imagen/Versace.jpeg"
+         "images": "https://github.com/UserJonathan/PresentacionDePagina/blob/main/pagweb/src/mocks/imagen/Versace.jpeg?raw=true"
       },
       {
          "id": 30,
@@ -268,7 +268,7 @@
          "price": 130,
          "stock": 25,
          "category": "Clasicos",
-         "images": "imagen/sperry  marron claro.jpeg"
+         "images": "https://github.com/UserJonathan/PresentacionDePagina/blob/main/pagweb/src/mocks/imagen/sperry%20%20marron%20claro.jpeg?raw=true"
       },
       {
          "id": 31,
@@ -277,7 +277,7 @@
          "price": 130,
          "stock": 25,
          "category": "Clasicos",
-         "images": "imagen/sperry marron oscuro.jpeg"
+         "images": "https://github.com/UserJonathan/PresentacionDePagina/blob/main/pagweb/src/mocks/imagen/sperry%20marron%20oscuro.jpeg?raw=true"
       }
    ],
    "total": 31,
